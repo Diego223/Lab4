@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Labb#3</string>
+    <string name="String_infoGuate">Guatemala se sitúa en el istmo centroamericano con una extensión territorial de 108, 889 km2 y está limitada al oeste y norte por México, al este con Belice y el golfo de Honduras, al sureste con Honduras y El Salvador, y al sur con el Océano Pacífico. El territorio se encuentra integrado por 22 departamentos, los cuales se dividen en 331 municipios. Su capital es la Ciudad de Guatemala.  El territorio del país está asentado en tres placas tectónicas que provocan frecuentes movimientos sísmicos de diversa intensidad.</string>
+    <string name="Boton1">Izabal</string>
+    <string name="Boton2">Pana</string>
+    <string name="Boton3">Antigua</string>
+    <string name="imagen1">Imagen1</string>
+    <string name="Infoiza">Izabal está situado en la región Nor-Oriental de Guatemala. Limita al Norte con el departamento de Petén, el distrito de Toledo (Belice) y el mar Caribe; al Sur con el departamento de Zacapa; al Este con la República de Honduras; y al Oeste con el departamento de Alta Verapaz. La cabecera departamental, Puerto Barrios, se encuentra a una distancia de 308 km. de la capital de la república. En el centro del departamento se encuentra el lago de Izabal, el más grande de Guatemala.</string>
+    <string name="Izal">IZABAL</string>
+    <string name="ButonIzal">Volver</string>
+    <string name="Imagen2">Imagen2</string>
+    <string name="Panaa">Pana</string>
+    <string name="BotonPana">Button</string>
+    <string name="InfoPana">TextView</string>
+    <string name="Panaaa">Panaaa</string>
+    <string name="Panaaaa">Fue fundado como una de las reducciones o «doctrinas», por los frailes franciscano y durante la época colonial fue sede de uno de los conventos de la Provincia franciscana del Santísimo Nombre de Jesús en Guatemala.4​ Luego de la Independencia de Centroamérica en 1821, pasó a formar parte del departamento de Sololá/Suchitepéquez;5​ y en 1838 fue parte del efímero Estado de Los Altos hasta que este fue reincorporado al Estado de Guatemala por el general conservador Rafael Carrera en 1840.6​ Posteriormente, tras la Reforma Liberal de 1871, el 12 de agosto de 1872 el gobierno de facto del presidente provisorio Miguel García Granados creó el departamento de Quiché, al que adjudicó gran parte del territorio de Sololá, aunque Panajachel permaneció en este último.7​</string>
+    <string name="Antiguaa">Antigua</string>
+    <string name="BotonAntigua">Volver</string>
+    <string name="InfoAntigua">a ciudad de Santiago de los Caballeros de Guatemala, cuyo nombre oficial e histórico es Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros de Guatemala y popularmente nombrada en la actualidad como Antigua Guatemala, es cabecera del municipio homónimo y del departamento de Sacatepéquez, Guatemala; se ubica a aproximadamente 25 kilómetros al oeste de la capital de la República de Guatemala, y a una altitud de 1470 msnm. Actualmente la ciudad se ubica dentro de las 20 ciudades más importantes de Guatemala.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

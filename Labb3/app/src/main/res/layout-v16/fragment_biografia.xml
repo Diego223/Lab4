@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="User"
+            type="com.example.Labb#3.Modelo" />
+
+    </data>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#A61A0249"
+        tools:context="Biografía">
+
+        <ImageView
+            android:id="@+id/Diegofoto"
+            android:layout_width="278dp"
+            android:layout_height="385dp"
+            android:src="@drawable/Diego"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@drawable/Diego"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:id="@+id/DiegoInfo"
+            android:layout_width="350dp"
+            android:layout_height="170dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="30dp"
+            android:fontFamily="@font/roboto"
+            android:text="Diego Crespo fue nacido en Bolivia el 14 de noviembre del 2000, luego de nacer sus padres decidieron viajar de bolivia a guatemala debido a el trabajo y el clima, estudio y prosiguio con su vida en el nuevo pais para luego llegar a la universidad de el valle para estudiar computacion y estar trabajando en aplicaciones moviles."
+            android:textColor="#EEEEEE"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:fontFamily="@font/roboto_thin"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Diegofoto" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</layout>

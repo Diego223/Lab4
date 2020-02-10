@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="user"
+            type="com.example.labb3.Modelo"
+            />
+    </data>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF5722"
+        tools:context=".Comment">
+
+        <TextView
+            android:id="@+id/commentInfo"
+            android:layout_width="342dp"
+            android:layout_height="358dp"
+            android:layout_marginStart="121dp"
+            android:layout_marginTop="296dp"
+            android:layout_marginEnd="121dp"
+            android:layout_marginBottom="296dp"
+            android:text=""
+            android:textAlignment="textStart"
+            android:textColor="#E2DBDB"
+            android:textSize="40dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
